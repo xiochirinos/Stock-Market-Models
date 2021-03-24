@@ -21,15 +21,6 @@ The purpose of this project was to create six models that consumed FAANG data an
 5. AutoML <br>
 6. Time Series <br>
 
-<ol>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
-</ol>
-
-
-
 The models were all fed historical data by minute from October 1, 2020 to December 31, 2020. The test/validation period was January 1, 2021 to February 26, 2021. This project gives us exposure applying machine learning models learned in the classroom to real-world situations like the stock market. 
 Approach
 
