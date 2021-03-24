@@ -4,9 +4,9 @@
 
 ## Authors
 
-Rene Villarreal 
-Xiomara Chirinos 
-Mariah Bastos 
+Rene Villarreal <br>
+Xiomara Chirinos <br>
+Mariah Bastos <br>
 
 ***
 
@@ -14,12 +14,12 @@ Mariah Bastos
 
 The purpose of this project was to create six models that consumed FAANG data and would classify a stock as going up 5% in the next 30 minutes, going down 2%, or nothing. The six models used were: 
 
-MARS 
-Random Forest 
-Support Vector Machines 
-Neural Networks 
-AutoML 
-Time Series 
+MARS <br>
+Random Forest <br>
+Support Vector Machines <br>
+Neural Networks <br>
+AutoML <br>
+Time Series <br>
 
 The models were all fed historical data by minute from October 1, 2020 to December 31, 2020. The test/validation period was January 1, 2021 to February 26, 2021. This project gives us exposure applying machine learning models learned in the classroom to real-world situations like the stock market. 
 Approach
