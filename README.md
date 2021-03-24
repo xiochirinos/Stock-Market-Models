@@ -32,18 +32,18 @@ The six models were built and measured on the Mean Squared Error (MSE) and Accur
 
 In order to run the codes in our folders, you will need the following libraries: 
 
-tidyverse: with this library we used mostly dplyr for cleaning up our data. <br>
-jsonlite: this is mostly used to read the JSON messsages whenever we execute a trade and to access our budget. <br>
-riingo: we used this package to pull data from Tiingo using our API key. <br>
-zoo: we included this package in the library set to use the lag function. <br>
-lubridate: manipulate dates and timestamps. <br>
-hms: additional manipulation of dates and timestamps. <br>
-forecast: time series. <br>
-kernlab: support vector machines. <br>
-earth: MARS. <br>
-randomForest: random forest. <br>
-h2o: autoML. <br>
-neuralnet: neural networks. <br>
-caret: confusion matrices. <br>
+**tidyverse:** with this library we used mostly dplyr for cleaning up our data. <br>
+**jsonlite:** this is mostly used to read the JSON messsages whenever we execute a trade and to access our budget. <br>
+**riingo:** we used this package to pull data from Tiingo using our API key. <br>
+**zoo:** we included this package in the library set to use the lag function. <br>
+**lubridate:** manipulate dates and timestamps. <br>
+**hms:** additional manipulation of dates and timestamps. <br>
+**forecast:** time series. <br>
+**kernlab:** support vector machines. <br>
+**earth:** MARS. <br>
+**randomForest:** random forest. <br>
+**h2o:** autoML. <br>
+**neuralnet:** neural networks. <br>
+**caret:** confusion matrices. <br>
 
 The R scripts can be taken directly from our 'code' folder and run in R.
